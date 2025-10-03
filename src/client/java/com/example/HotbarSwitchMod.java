@@ -1,4 +1,4 @@
-package com.example.hotbarswitch;
+package com.example;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
