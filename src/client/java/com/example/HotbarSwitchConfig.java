@@ -1,4 +1,4 @@
-package com.example.hotbarswitch;
+package com.example;
 
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
